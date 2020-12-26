@@ -15,7 +15,7 @@ export class Carousel extends Component {
                     title:"Naruto",
                     subtitle:"Action/Fantasy",
                     imgsrc: naruto,
-                    link: "https://devgrub.com",
+                    link: "https://en.wikipedia.org/wiki/Naruto",
                     selected: false
                 },
                 {
@@ -23,7 +23,7 @@ export class Carousel extends Component {
                     title:"One Piece",
                     subtitle:"Pirates",
                     imgsrc: luffy,
-                    link: "https://devgrub.com",
+                    link: "https://en.wikipedia.org/wiki/One_Piece",
                     selected: false
                 },
                 {
@@ -31,7 +31,7 @@ export class Carousel extends Component {
                     title:"Bleach",
                     subtitle:"Supernatural",
                     imgsrc: ichigo,
-                    link: "https://devgrub.com",
+                    link: "https://en.wikipedia.org/wiki/Bleach_(TV_series)",
                     selected: false
                 }
             ]
