@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/React-Website/static/css/main.79b4dbbd.chunk.css",
-    "main.js": "/React-Website/static/js/main.61c2e392.chunk.js",
-    "main.js.map": "/React-Website/static/js/main.61c2e392.chunk.js.map",
-    "runtime-main.js": "/React-Website/static/js/runtime-main.1693c6e7.js",
-    "runtime-main.js.map": "/React-Website/static/js/runtime-main.1693c6e7.js.map",
+    "main.css": "/React-Website/static/css/main.351345df.chunk.css",
+    "main.js": "/React-Website/static/js/main.23b9334b.chunk.js",
+    "main.js.map": "/React-Website/static/js/main.23b9334b.chunk.js.map",
+    "runtime-main.js": "/React-Website/static/js/runtime-main.bb3fca5e.js",
+    "runtime-main.js.map": "/React-Website/static/js/runtime-main.bb3fca5e.js.map",
     "static/css/2.95f25948.chunk.css": "/React-Website/static/css/2.95f25948.chunk.css",
-    "static/js/2.958a0472.chunk.js": "/React-Website/static/js/2.958a0472.chunk.js",
-    "static/js/2.958a0472.chunk.js.map": "/React-Website/static/js/2.958a0472.chunk.js.map",
-    "static/js/3.21e1527d.chunk.js": "/React-Website/static/js/3.21e1527d.chunk.js",
-    "static/js/3.21e1527d.chunk.js.map": "/React-Website/static/js/3.21e1527d.chunk.js.map",
+    "static/js/2.ffa16580.chunk.js": "/React-Website/static/js/2.ffa16580.chunk.js",
+    "static/js/2.ffa16580.chunk.js.map": "/React-Website/static/js/2.ffa16580.chunk.js.map",
+    "static/js/3.0b735922.chunk.js": "/React-Website/static/js/3.0b735922.chunk.js",
+    "static/js/3.0b735922.chunk.js.map": "/React-Website/static/js/3.0b735922.chunk.js.map",
     "index.html": "/React-Website/index.html",
     "static/css/2.95f25948.chunk.css.map": "/React-Website/static/css/2.95f25948.chunk.css.map",
-    "static/css/main.79b4dbbd.chunk.css.map": "/React-Website/static/css/main.79b4dbbd.chunk.css.map",
-    "static/js/2.958a0472.chunk.js.LICENSE.txt": "/React-Website/static/js/2.958a0472.chunk.js.LICENSE.txt",
+    "static/css/main.351345df.chunk.css.map": "/React-Website/static/css/main.351345df.chunk.css.map",
+    "static/js/2.ffa16580.chunk.js.LICENSE.txt": "/React-Website/static/js/2.ffa16580.chunk.js.LICENSE.txt",
     "static/media/Ichigo.a5988d3a.png": "/React-Website/static/media/Ichigo.a5988d3a.png",
     "static/media/Luffy.b6f186f5.jpg": "/React-Website/static/media/Luffy.b6f186f5.jpg",
     "static/media/Naruto.652d0415.jpg": "/React-Website/static/media/Naruto.652d0415.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1693c6e7.js",
+    "static/js/runtime-main.bb3fca5e.js",
     "static/css/2.95f25948.chunk.css",
-    "static/js/2.958a0472.chunk.js",
-    "static/css/main.79b4dbbd.chunk.css",
-    "static/js/main.61c2e392.chunk.js"
+    "static/js/2.ffa16580.chunk.js",
+    "static/css/main.351345df.chunk.css",
+    "static/js/main.23b9334b.chunk.js"
   ]
 }
