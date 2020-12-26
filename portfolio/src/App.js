@@ -17,9 +17,9 @@ class App extends Component {
     this.state={
       title: "Huai Zhe",
       headerLinks:[
-        {title:"Home", path:"/"},
-        {title: "About", path:"/about"},
-        {title:"Contact",path:"/contact"}
+        {title:"Home", path:"/React-Website/"},
+        {title: "About", path:"/about/"},
+        {title:"Contact",path:"/contact/"}
       ],// the links for the nav bar
 
       home:{
@@ -46,14 +46,14 @@ class App extends Component {
             <Navbar.Toggle className="border-0" aria-controls="navbar-toggle"/>
             <Navbar.Collapse id="navbar-toggle">
               <Nav className="ml-auto">
-                <Link className="nav-link" to="/">Home</Link>
+                <Link className="nav-link" to="/React-Website/">Home</Link>
                 <Link className="nav-link" to="/about">About</Link>
                 <Link className="nav-link" to="/Contact">Contact</Link>
               </Nav>
             </Navbar.Collapse>
           </Navbar>
 
-          <Route path="/" exact render={()=> <HomePage title={this.state.home.title} 
+          <Route path="/React-Website" exact render={()=> <HomePage title={this.state.home.title} 
           subtitle={this.state.home.subtitle} text={this.state.home.text}/>}/> 
 
           <Route path="/About" exact render={()=> <AboutPage title={this.state.about.title}/>}/>
